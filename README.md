@@ -6,7 +6,7 @@ Network Engineering Training, Certification and Resources
 * Achtergrond in network engineering/design
 * Enthousiast over de ontwikkelingen op het gebied van netwerkvirtualisatie/-automation (NFV, SDN, …)
 * Ervaring met netwerk automation tools is een pré (bijv. Cisco NSO, Tufin, Ansible, …, …)
-* Ervaring met programmeren en met developmenttooling als (bijv. Python, Git, …)
+* Ervaring met programmeren en met developmenttooling (bijv. Python, Git, …)
 * CCNP of vergelijkbare certificering is een pré
 
 ### Network architect core skills
