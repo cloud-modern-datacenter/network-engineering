@@ -9,7 +9,7 @@ Network Engineering Training, Certification and Resources
 * Ervaring met programmeren en met developmenttooling (bijv. Python, Git, …)
 * CCNP of vergelijkbare certificering is een pré
 
-### Network architect core skills
+## Network architect core skills
 * Network engineering achtergrond
 * 3+ jaar ervaring met ontwerpen van netwerken en opstellen van ontwerpdocumenten
 * CCIE of vergelijkbare certificering is een pré
@@ -26,40 +26,34 @@ Network Engineering Training, Certification and Resources
 
 ## Websites
 * [Cisco learningspace](learningspace.cisco.com)
-* [Test]()
-* []()
+* [INE](ine.com)
+* [CBT Nuggets](cbtnuggets.com)
+* [ONAP](https://www.onap.org/)
+
+### Generic education websites
+* [Coursera](coursera.org)
+* [EDX](www.edx.org)
+* [Udemy](www.udemy.com)
+
 
 ## Certificeringen/trainingen
-* 
 
 ### Automation (SDN)
-* Cisco Network Programmability Developer Specialist
-* Cisco Network Programmability Design and Implementation Specialist
+* 300-550 NPDESI Designing and Implementing Cisco Network Programmability (beschikbaar op KPN academy)
+* 300-170 DCVAI Implementing Cisco Data Center Virtualization and Automation  (beschikbaar op KPN academy)
+* 300-560 NPDEV Cisco Network Programmability Developer Specialist
+* Python Programming for Cisco Networking Engineers (beschikbaar op KPN academy)
 * NSO300 - NSO Advanced for Python Programmers
 * NSO cursussen
 * ACI cursussen
 * Ansible???
 * etc.
 
-### Virtualisatie
-* CCNP Data Center
-* CNNP Cloud
-
-### Routing en switching
-* CCNP
-* CCIE
-
-### Security
-* CCNP security
-* ...
-
-### Development
+#### Development
 *Python tutorials*
 
-* Programming
-
+* Verschillende cursussen beschikbaar op KPN academy
 * Object oriented
-
 * Unit testing
 
 *Git tutorials*
@@ -69,8 +63,22 @@ Network Engineering Training, Certification and Resources
   * 
 
 * ...
-  * 
-  * 
+
+### Virtualisatie
+* CCNP Data Center
+* CNNP Cloud
+
+### Architectuur / Design
+* 300-320 ARCH Designing Cisco Network Service Architectures (beschikbaar op KPN academy)
+
+### Routing en switching
+* CCNP
+* CCIE
+
+### Security
+* 300-206 SENSS Implementing Cisco Edge Network Security Solutions (beschikbaar op KPN academy)
+* CCNP security
+* ...
 
 
 ## Conferences
