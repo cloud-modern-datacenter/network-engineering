@@ -19,13 +19,16 @@ Network Engineering Training, Certification and Resources
 * NSO
 * netyce
 * APIC controller
+* Cisco DNA
+* Ansible
 
-**Security
+**Security**
 * Tufin
 * Cisco ISE
 
 ## Websites
 * [Cisco learningspace](learningspace.cisco.com)
+* [Cisco dCloud](dcloud.cisco.com/)
 * [INE](ine.com)
 * [CBT Nuggets](cbtnuggets.com)
 * [ONAP](https://www.onap.org/)
@@ -58,9 +61,9 @@ Network Engineering Training, Certification and Resources
 
 *Git tutorials*
 
-* Development workflows
-  * 
-  * 
+* [Git Essentials (Udemy)](https://www.udemy.com/git-and-github-essentials/)
+* 
+* 
 
 * ...
 
@@ -77,9 +80,15 @@ Network Engineering Training, Certification and Resources
 
 ### Security
 * 300-206 SENSS Implementing Cisco Edge Network Security Solutions (beschikbaar op KPN academy)
+* 300-308 SISAS Implementing Cisco Secure Access Solutions (beschikbaar op KPN)
+  academy
+* [Udemy Cisco ISE trainingen (By Kevin Rodgers)](https://www.udemy.com/isetraining/)
 * CCNP security
-* ...
 
+### Beheerprocessen
+* ITILv3
+
+### 
 
 ## Conferences
 * Cisco Live
